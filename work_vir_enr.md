@@ -14,7 +14,8 @@ Bash
    python virustotal_enrich.py
 Work Log & Day-by-Day Progress
 Day 9: API Integration Planning & Setup
-
+* *Day 11: Continued Documentation*
+    * Refined the project documentation for better clarity and updated the repository structure.
 Analyzed the VirusTotal API documentation for IP, domain, and file hash reputation endpoints.
 
 Structured the initial connection handling and error management for API rate limits.
